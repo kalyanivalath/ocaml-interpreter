@@ -1,0 +1,22 @@
+push :unit:
+push :error:
+swap
+push x
+push num0
+pop
+push num1
+push 8
+assign
+push num2
+push 9
+assign
+push num3
+push num4
+println
+println
+println
+println
+println
+println
+println
+quit

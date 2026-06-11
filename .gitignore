@@ -1,0 +1,7 @@
+_build/
+*.cmi
+*.cmo
+*.cmx
+*.o
+*.out
+.DS_Store
