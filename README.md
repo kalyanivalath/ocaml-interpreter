@@ -1,2 +1,10 @@
-# ocaml-interpreter
-A stack-based interpreter implemented in OCaml supporting variable bindings, lexical scoping, closures, and user-defined functions.
+# OCaml Interpreter
+
+A stack-based interpreter implemented in OCaml supporting:
+
+- Integer, Boolean, and String values
+- Variable bindings
+- Lexical scoping
+- Closures
+- User-defined functions
+- Nested environments
